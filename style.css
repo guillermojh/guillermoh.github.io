@@ -98,7 +98,8 @@ span {
 
 
 .hero {
-  background-image: url(/image/fondo2.jpg);;
+  /* background-image: url(/image/fondo2.jpg);; */
+  background-image: url(fondo2.jpg);;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center;
